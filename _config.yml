@@ -1,0 +1,28 @@
+name: Wwiser Than We Know
+favicon: null
+layout_spectrum: 0.9097365427296609
+typography_spectrum: 0.46647971705533564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8205091641284525
+  lightness: 0.66409373562783
+  saturation: 0.8228331352584064
+  rhythmicContrast: 0.8112045065499842
+purpose: []
